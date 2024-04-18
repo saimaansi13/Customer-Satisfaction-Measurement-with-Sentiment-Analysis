@@ -24,6 +24,7 @@ This process was to extract actionable insights from sentiment analysis results.
 ### Performance Evaluation
 To assess the sentiment analysis module's accuracy and effectiveness, this phase compares sentiment analysis results with human-labeled data or ground truth, calculating metrics such as accuracy, precision, recall, and F1 score.
 ![1](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/ac4d0630-a273-4272-adca-94ab5fa4a00c)
+![1](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/0bf30222-1042-4bc0-bab7-456e8d3ba72d)
 
 ## Software Requirements
 - **Operating System**  :  Windows 
