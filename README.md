@@ -33,9 +33,3 @@ The sentiment analysis model is trained on a substantial dataset of customer fee
 - **Integrated** **Development** **Environment** :  Visual Studio
 
 
-## Technologies Used
-#### Python: Core language for implementing the sentiment analysis model and backend functionalities.
-#### Django: A powerful web framework for building the web application and managing server-side logic.
-#### JavaScript: Utilized for creating interactive features and data visualization on the web application.
-#### HTML & CSS: Responsible for the frontend structure and styling of the web application.
-#### Machine Learning Libraries: Leveraging Python's scikit-learn and NLTK for sentiment analysis.
