@@ -1,6 +1,6 @@
 # Customer Satisfaction Measurement with Sentiment Analysis
 ## Overview 
-Customer satisfaction forms the foundation of any thriving business. Understanding customer sentiments towards products or services is paramount for making informed business decisions. This project endeavors to construct a robust Customer Satisfaction Measurement system by harnessing the capabilities of Sentiment Analysis.
+This projects goal was to develop a system for measuring customer satisfaction through sentiment analysis on customer feedback.This system analyzes customer reviews, comments, or any text-based feedback, categorizing them into positive, negative, or neutral sentiment categories.  By understanding customer sentiment, businesses can identify areas for improvement, track sentiment trends, and make data-driven decisions to enhance overall customer satisfaction.
 
 ## Key Features
 ### Sentiment Analysis
