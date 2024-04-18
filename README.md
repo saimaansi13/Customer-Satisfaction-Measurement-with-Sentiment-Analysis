@@ -2,7 +2,7 @@
 ## Overview 
 This projects goal was to develop a system for measuring customer satisfaction through sentiment analysis on customer feedback.This system analyzes customer reviews, comments, or any text-based feedback, categorizing them into positive, negative, or neutral sentiment categories.  By understanding customer sentiment, businesses can identify areas for improvement, track sentiment trends, and make data-driven decisions to enhance overall customer satisfaction.
 
-![Your paragraph text](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/dcfd6667-b7ad-4f83-8b0e-fcda162ff663)
+![Your paragraph text](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/dcfd6667-b7ad-4f83-8b0e-fcda162ff663){:height="50%" width="50%"}
 
 ## Process
 
