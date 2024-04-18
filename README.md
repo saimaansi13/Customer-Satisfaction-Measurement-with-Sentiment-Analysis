@@ -6,8 +6,6 @@ This projects goal was to develop a system for measuring customer satisfaction t
 
 
 ## Process
-![Your paragraph text](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/7e61d952-dae4-44f2-84a3-0f23a0aa9390)
-
 
 ### Data Collection
 This stage orchestrates the gathering of customer feedback data from various channels, including online reviews, social media platforms, customer surveys, and support tickets. It employs methods such as web scraping, API integration, or manual data entry, tailored to specific data sources and accessibility.
@@ -25,6 +23,7 @@ This process identifies sentiments towards specific aspects or features of a pro
 This process was to extract actionable insights from sentiment analysis results. Tasks include aggregating sentiment scores, visualizing sentiment trends, identifying key drivers of customer satisfaction/dissatisfaction, and generating reports or dashboards for stakeholders.
 ### Performance Evaluation
 To assess the sentiment analysis module's accuracy and effectiveness, this phase compares sentiment analysis results with human-labeled data or ground truth, calculating metrics such as accuracy, precision, recall, and F1 score.
+![1](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/ac4d0630-a273-4272-adca-94ab5fa4a00c)
 
 ## Software Requirements
 - **Operating System**  :  Windows 
