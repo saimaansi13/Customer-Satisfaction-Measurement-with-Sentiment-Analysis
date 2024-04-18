@@ -33,7 +33,6 @@ To assess the sentiment analysis module's accuracy and effectiveness, this phase
 - **Frameworks**  : Django
 - **Database** **management** **system** :  Sqlite3
 - **Integrated** **Development** **Environment** :  Visual Studio
-- 
 ## References 
 - Ibrahim Rouby, Performance evaluation of an adopted sentiment analysis model for Arabic comments from the facebook ,2018, pp. 992-1045, 2018.
 - J. Singh, G. Singh, and R. Singh, A review of sentiment analysis techniques for opinionated web text, CSI Trans. ICT, 2016.
