@@ -1,6 +1,7 @@
 # Customer Satisfaction Measurement with Sentiment Analysis
 ## Overview 
 This projects goal was to develop a system for measuring customer satisfaction through sentiment analysis on customer feedback.This system analyzes customer reviews, comments, or any text-based feedback, categorizing them into positive, negative, or neutral sentiment categories.  By understanding customer sentiment, businesses can identify areas for improvement, track sentiment trends, and make data-driven decisions to enhance overall customer satisfaction.
+
 ![Your paragraph text](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/b54c1d4e-e928-4b84-aedb-6f720dedb1bf)
 
 ## Process
@@ -32,5 +33,8 @@ To assess the sentiment analysis module's accuracy and effectiveness, this phase
 - **Frameworks**  : Django
 - **Database** **management** **system** :  Sqlite3
 - **Integrated** **Development** **Environment** :  Visual Studio
-
-
+- 
+## References 
+- Ibrahim Rouby, Performance evaluation of an adopted sentiment analysis model for Arabic comments from the facebook ,2018, pp. 992-1045, 2018.
+- J. Singh, G. Singh, and R. Singh, A review of sentiment analysis techniques for opinionated web text, CSI Trans. ICT, 2016.
+- Hu, Fei, Li Li, Zi-Li Zhang, Jing-Yuan Wang, and XiaoFei Xu, “Emphasizing essential words for sentiment classification based on recurrent neural networks”, Journal of Computer Science and Technology, vol. 32, no. 4, pp. 785-795, 2017. 
