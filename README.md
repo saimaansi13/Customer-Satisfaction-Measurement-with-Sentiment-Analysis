@@ -5,27 +5,23 @@ This projects goal was to develop a system for measuring customer satisfaction t
 ![Screenshot (130)](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/8d8f5309-54d4-4041-a2ac-39a0832ad716)
 
 
-## Key Features
+## Process
+### Data Collection
+This stage orchestrates the gathering of customer feedback data from various channels, including online reviews, social media platforms, customer surveys, and support tickets. It employs methods such as web scraping, API integration, or manual data entry, tailored to specific data sources and accessibility.
+### Data Preprocessing
+Collected data undergoes refinement and transformation to ready it for sentiment analysis. Tasks encompass removing irrelevant information, handling missing data, standardizing text (lowercasing, removing punctuation), and tokenization to split text into manageable units.
 ### Sentiment Analysis
-Utilizing Python's Machine Learning libraries, this project employs advanced Sentiment Analysis algorithms to scrutinize customer feedback and discern their sentiment towards the product or service.
-### Python Django Web Application
-Implemented using the Django web framework, the project offers a user-friendly and intuitive interface for seamless interaction.
-### Interactive Dashboard
-Featuring an interactive dashboard, the web application presents real-time customer sentiment trends and analysis, facilitating effortless visualization of customer feedback and satisfaction levels tracking.
-### Data Visualization
-Leveraging JavaScript and HTML, visually appealing charts and graphs are generated to depict sentiment analysis results, aiding businesses in effectively comprehending their customers' emotions.
-### Customer Feedback Input
-A user-friendly web form enables users to input customer feedback. The system automatically processes the feedback and generates sentiment analysis results.
-### Machine Learning Model Training
-The sentiment analysis model is trained on a substantial dataset of customer feedback, ensuring accurate predictions and adaptability to various contexts.
-
-## Hardware Requirements
-- **System**	:	Intel Dual core
-- **Hard Disk**	:	40 GB.
-- **Floppy Drive**	:	44 Mb.
-- **Monitor**	:	15 VGA Color.
-- **Mouse**	:	Optical mouse
-- **Ram**	:	512 Mb
+This phase involves dissecting sentiment expressed in customer feedback. It includes the following sub-processes:
+#### a. Text Classification
+Using machine learning or rule-based algorithms, this process categorizes sentiment of text units (sentences, phrases, documents) as positive, negative, or neutral, often involving feature extraction and training sentiment classifiers on labeled data.
+#### b. Lexicon-Based Analysis
+Utilizing pre-built sentiment lexicons, this method assigns sentiment scores to customer feedback based on the presence and intensity of sentiment-bearing terms in the text.
+#### c. Aspect-Based Analysis
+This process identifies sentiments towards specific aspects or features of a product or service, extracting aspects from feedback and determining sentiment polarity for each aspect individually.
+### Insights Generation
+This process was to extract actionable insights from sentiment analysis results. Tasks include aggregating sentiment scores, visualizing sentiment trends, identifying key drivers of customer satisfaction/dissatisfaction, and generating reports or dashboards for stakeholders.
+### Performance Evaluation
+To assess the sentiment analysis module's accuracy and effectiveness, this phase compares sentiment analysis results with human-labeled data or ground truth, calculating metrics such as accuracy, precision, recall, and F1 score.
 
 ## Software Requirements
 - **Operating System**  :  Windows 
