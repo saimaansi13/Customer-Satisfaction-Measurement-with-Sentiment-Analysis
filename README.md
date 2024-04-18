@@ -6,7 +6,8 @@ This projects goal was to develop a system for measuring customer satisfaction t
 
 
 ## Process
-![system archiecture](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/9e39089e-b58b-46a5-9e0c-cd7d8b00c677)
+![Your paragraph text](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/7e61d952-dae4-44f2-84a3-0f23a0aa9390)
+
 
 ### Data Collection
 This stage orchestrates the gathering of customer feedback data from various channels, including online reviews, social media platforms, customer surveys, and support tickets. It employs methods such as web scraping, API integration, or manual data entry, tailored to specific data sources and accessibility.
