@@ -2,6 +2,8 @@
 ## Overview 
 This projects goal was to develop a system for measuring customer satisfaction through sentiment analysis on customer feedback.This system analyzes customer reviews, comments, or any text-based feedback, categorizing them into positive, negative, or neutral sentiment categories.  By understanding customer sentiment, businesses can identify areas for improvement, track sentiment trends, and make data-driven decisions to enhance overall customer satisfaction.
 
+![1](https://github.com/saimaansi13/Customer-Satisfaction-Measurement-with-Sentiment-Analysis/assets/125540201/20650c52-5f03-4d11-b6b3-a29186972c59)
+
 ## Key Features
 ### Sentiment Analysis
 Utilizing Python's Machine Learning libraries, this project employs advanced Sentiment Analysis algorithms to scrutinize customer feedback and discern their sentiment towards the product or service.
