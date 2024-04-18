@@ -16,6 +16,24 @@ A user-friendly web form enables users to input customer feedback. The system au
 ### Machine Learning Model Training
 The sentiment analysis model is trained on a substantial dataset of customer feedback, ensuring accurate predictions and adaptability to various contexts.
 
+## Hardware Requirements
+System	:	Intel Dual core
+Hard Disk	:	40 GB.
+Floppy Drive	:	44 Mb.
+Monitor	:	15 VGA Color.
+Mouse	:	Optical mouse
+Ram	:	512 Mb
+Software Requirements
+
+## Software Requirements
+Operating System  :  Windows 
+Programming/Scripting Languages  :  Python, JavaScript, HTML, CSS
+Libraries : Pandas ,Numpy, Nltk, sklearn
+Frameworks  :  Django
+Database management system :  Sqlite3
+Integrated Development Environment :  Visual Studio
+
+
 ## Technologies Used
 #### Python: Core language for implementing the sentiment analysis model and backend functionalities.
 #### Django: A powerful web framework for building the web application and managing server-side logic.
